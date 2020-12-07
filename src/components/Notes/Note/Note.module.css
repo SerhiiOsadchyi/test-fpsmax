@@ -1,0 +1,24 @@
+.note {
+    padding: 0 20px;
+}
+
+h3 {
+    text-align: left;
+}
+
+.editNote {
+    margin-top: -15px;
+}
+
+.editNote button {
+   margin-left: 2px;
+}
+
+.noteContent {
+    margin-top: -10px;
+}
+
+.editNote img {
+    width: 16px
+}
+

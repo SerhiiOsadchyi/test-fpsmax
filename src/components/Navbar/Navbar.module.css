@@ -1,0 +1,24 @@
+.nav {
+    margin-top: -8px;
+    padding-top: 40px;
+    grid-area: nav;
+    background-color: black;
+    min-height: 400px;
+}
+
+.item {
+    padding: 10px 5px 10px 20px;
+}
+
+.item a {
+    text-decoration: none;
+    color: white;
+}
+
+.item a.activeNav {
+    color: black;
+}
+
+.activeMenu {
+    background-color: bisque;
+}

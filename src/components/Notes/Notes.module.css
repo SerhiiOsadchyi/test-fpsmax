@@ -1,0 +1,19 @@
+.notes {
+    padding: 10px
+}
+
+.notes button {
+    background: transparent;
+    border: 0
+}
+
+.notes img {
+    width: 20px
+}
+
+.addButton {
+    text-align: center;
+}
+
+
+

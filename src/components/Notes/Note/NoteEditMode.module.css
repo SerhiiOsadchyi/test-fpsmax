@@ -1,0 +1,17 @@
+.submit button {
+    border: 1px;
+    background-color: black;
+    color: white
+}
+
+.editNote input, textarea {
+    width: 500px
+}
+
+textarea {
+    min-height: 150px;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    resize: vertical
+}
+
